@@ -1,0 +1,32 @@
+Archivos del sistema*
+*.tmp
+*.log
+*.lock
+
+*Archivos de configuración*
+.config
+.settings
+META-ALPHA-123.config
+
+*Archivos compilados*
+*.min.js
+*.min.css
+
+*Directorios de node_modules y dependencias*
+/node_modules
+/yarn.lock
+/package-lock.json
+
+*Archivos de depuración*
+.debug
+META-ALPHA-123.debug
+
+*Archivos de configuración de entorno*
+.env
+
+*Archivos de metadata*
+.META-ALPHA-123
+
+*Ignorar archivos de backup*
+*.bak
+*.backup
